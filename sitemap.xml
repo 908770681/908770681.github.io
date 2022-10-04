@@ -4,7 +4,25 @@
   <url>
     <loc>https://908770681.github.io/archives/ff8068c0.html</loc>
     
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://908770681.github.io/archives/e4e8a895.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://908770681.github.io/archives/7ef2643a.html</loc>
+    
+    <lastmod>2022-10-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,7 +103,7 @@
 
   <url>
     <loc>https://908770681.github.io/</loc>
-    <lastmod>2022-10-01</lastmod>
+    <lastmod>2022-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,28 +111,35 @@
   
   <url>
     <loc>https://908770681.github.io/tags/acwing%E9%A2%98%E5%BA%93/</loc>
-    <lastmod>2022-10-01</lastmod>
+    <lastmod>2022-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://908770681.github.io/tags/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/</loc>
+    <lastmod>2022-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://908770681.github.io/tags/java/</loc>
-    <lastmod>2022-10-01</lastmod>
+    <lastmod>2022-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://908770681.github.io/tags/%E5%8A%9B%E6%89%A3/</loc>
-    <lastmod>2022-10-01</lastmod>
+    <lastmod>2022-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://908770681.github.io/tags/%E9%99%88%E7%A5%A5%E6%A6%95/</loc>
-    <lastmod>2022-10-01</lastmod>
+    <lastmod>2022-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
