@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://908770681.github.io/manifest.json</loc>
-    
-    <lastmod>2022-10-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://908770681.github.io/archives/1fa56ed0.html</loc>
     
     <lastmod>2022-10-09</lastmod>
@@ -92,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://908770681.github.io/archives/be82d226.html</loc>
+    <loc>https://908770681.github.io/archives/79666db.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -101,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://908770681.github.io/archives/79666db.html</loc>
+    <loc>https://908770681.github.io/archives/be82d226.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -180,7 +171,7 @@
   </url>
   
   <url>
-    <loc>https://908770681.github.io/tags/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F/</loc>
+    <loc>https://908770681.github.io/tags/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/</loc>
     <lastmod>2022-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -194,21 +185,7 @@
   </url>
   
   <url>
-    <loc>https://908770681.github.io/tags/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/</loc>
-    <lastmod>2022-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://908770681.github.io/tags/java/</loc>
-    <lastmod>2022-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://908770681.github.io/tags/%E5%8A%9B%E6%89%A3/</loc>
+    <loc>https://908770681.github.io/tags/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F/</loc>
     <lastmod>2022-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -223,6 +200,20 @@
   
   <url>
     <loc>https://908770681.github.io/tags/%E9%99%88%E7%A5%A5%E6%A6%95/</loc>
+    <lastmod>2022-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://908770681.github.io/tags/java/</loc>
+    <lastmod>2022-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://908770681.github.io/tags/%E5%8A%9B%E6%89%A3/</loc>
     <lastmod>2022-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
