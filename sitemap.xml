@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://908770681.github.io/manifest.json</loc>
+    
+    <lastmod>2022-10-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://908770681.github.io/archives/1fa56ed0.html</loc>
     
     <lastmod>2022-10-09</lastmod>
@@ -74,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://908770681.github.io/archives/be82d226.html</loc>
+    <loc>https://908770681.github.io/archives/79666db.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -83,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://908770681.github.io/archives/79666db.html</loc>
+    <loc>https://908770681.github.io/archives/be82d226.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -183,20 +192,6 @@
   </url>
   
   <url>
-    <loc>https://908770681.github.io/tags/java/</loc>
-    <lastmod>2022-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://908770681.github.io/tags/%E5%8A%9B%E6%89%A3/</loc>
-    <lastmod>2022-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://908770681.github.io/tags/%E9%99%88%E7%A5%A5%E6%A6%95/</loc>
     <lastmod>2022-10-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -212,6 +207,20 @@
   
   <url>
     <loc>https://908770681.github.io/tags/%E7%8E%8B%E5%B0%8F%E6%B3%A2/</loc>
+    <lastmod>2022-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://908770681.github.io/tags/java/</loc>
+    <lastmod>2022-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://908770681.github.io/tags/%E5%8A%9B%E6%89%A3/</loc>
     <lastmod>2022-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
