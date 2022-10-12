@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://908770681.github.io/archives/79666db.html</loc>
+    <loc>https://908770681.github.io/archives/be82d226.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -173,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://908770681.github.io/archives/be82d226.html</loc>
+    <loc>https://908770681.github.io/archives/79666db.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -218,21 +218,14 @@
 
   
   <url>
-    <loc>https://908770681.github.io/tags/30%E5%A4%A9%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90/</loc>
+    <loc>https://908770681.github.io/tags/java/</loc>
     <lastmod>2022-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://908770681.github.io/tags/%E6%9D%82%E4%B9%B1%E6%97%A0%E7%AB%A0/</loc>
-    <lastmod>2022-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://908770681.github.io/tags/APP%E7%B2%BE%E5%93%81%E7%BD%91%E5%9D%80%E5%AF%BC%E8%88%AA/</loc>
+    <loc>https://908770681.github.io/tags/%E5%8A%9B%E6%89%A3/</loc>
     <lastmod>2022-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -267,14 +260,7 @@
   </url>
   
   <url>
-    <loc>https://908770681.github.io/tags/java/</loc>
-    <lastmod>2022-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://908770681.github.io/tags/%E5%8A%9B%E6%89%A3/</loc>
+    <loc>https://908770681.github.io/tags/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/</loc>
     <lastmod>2022-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -288,7 +274,21 @@
   </url>
   
   <url>
-    <loc>https://908770681.github.io/tags/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/</loc>
+    <loc>https://908770681.github.io/tags/30%E5%A4%A9%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90/</loc>
+    <lastmod>2022-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://908770681.github.io/tags/%E6%9D%82%E4%B9%B1%E6%97%A0%E7%AB%A0/</loc>
+    <lastmod>2022-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://908770681.github.io/tags/APP%E7%B2%BE%E5%93%81%E7%BD%91%E5%9D%80%E5%AF%BC%E8%88%AA/</loc>
     <lastmod>2022-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
