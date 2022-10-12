@@ -295,13 +295,6 @@
   </url>
   
   <url>
-    <loc>https://908770681.github.io/tags/%E9%9A%8F%E6%83%B3/</loc>
-    <lastmod>2022-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://908770681.github.io/tags/%E4%B8%80%E5%8F%AA%E7%89%B9%E7%AB%8B%E7%8B%AC%E8%A1%8C%E7%9A%84%E7%8C%AA/</loc>
     <lastmod>2022-10-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -310,6 +303,13 @@
   
   <url>
     <loc>https://908770681.github.io/tags/%E7%8E%8B%E5%B0%8F%E6%B3%A2/</loc>
+    <lastmod>2022-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://908770681.github.io/tags/%E9%9A%8F%E6%83%B3/</loc>
     <lastmod>2022-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
