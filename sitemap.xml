@@ -263,20 +263,6 @@
 
   
   <url>
-    <loc>https://908770681.github.io/tags/java/</loc>
-    <lastmod>2022-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://908770681.github.io/tags/%E5%8A%9B%E6%89%A3/</loc>
-    <lastmod>2022-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://908770681.github.io/tags/acwing%E9%A2%98%E5%BA%93/</loc>
     <lastmod>2022-10-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -312,7 +298,14 @@
   </url>
   
   <url>
-    <loc>https://908770681.github.io/tags/APP%E7%B2%BE%E5%93%81%E7%BD%91%E5%9D%80%E5%AF%BC%E8%88%AA/</loc>
+    <loc>https://908770681.github.io/tags/java/</loc>
+    <lastmod>2022-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://908770681.github.io/tags/%E5%8A%9B%E6%89%A3/</loc>
     <lastmod>2022-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -326,7 +319,7 @@
   </url>
   
   <url>
-    <loc>https://908770681.github.io/tags/%E6%9D%82%E4%B9%B1%E6%97%A0%E7%AB%A0/</loc>
+    <loc>https://908770681.github.io/tags/APP%E7%B2%BE%E5%93%81%E7%BD%91%E5%9D%80%E5%AF%BC%E8%88%AA/</loc>
     <lastmod>2022-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -340,7 +333,21 @@
   </url>
   
   <url>
+    <loc>https://908770681.github.io/tags/%E6%9D%82%E4%B9%B1%E6%97%A0%E7%AB%A0/</loc>
+    <lastmod>2022-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://908770681.github.io/tags/%E8%AF%97%E8%AF%8D%E6%AD%8C%E8%B5%8B/</loc>
+    <lastmod>2022-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://908770681.github.io/tags/%E9%9A%8F%E6%83%B3/</loc>
     <lastmod>2022-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -355,13 +362,6 @@
   
   <url>
     <loc>https://908770681.github.io/tags/%E7%8E%8B%E5%B0%8F%E6%B3%A2/</loc>
-    <lastmod>2022-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://908770681.github.io/tags/%E9%9A%8F%E6%83%B3/</loc>
     <lastmod>2022-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
